@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t01/main.cpp
+src/stringCompare.h
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t01/src/stringCompare.h
+
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t01/src/stringCompare.h
+iostream
+-
+vector
+-
+

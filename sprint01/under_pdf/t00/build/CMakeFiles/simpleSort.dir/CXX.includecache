@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t00/main.cpp
+src/simpleSort.h
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t00/src/simpleSort.h
+
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t00/src/simpleSort.h
+iostream
+-
+array
+-
+algorithm
+-
+

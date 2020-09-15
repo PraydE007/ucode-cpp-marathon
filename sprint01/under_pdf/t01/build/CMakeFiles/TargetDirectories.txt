@@ -1,0 +1,3 @@
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t01/build/CMakeFiles/rebuild_cache.dir
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t01/build/CMakeFiles/edit_cache.dir
+/Users/abondarenk/ucode/cpp/sprint01/under_pdf/t01/build/CMakeFiles/moveAlong.dir
